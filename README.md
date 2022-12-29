@@ -12,4 +12,6 @@
 <div align="">
   <a href="https://github.com/drigoBarbosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drigoBarbosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <a href="https://github.com/drigoBarbosa/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drigoBarbosa&layout=compact&theme=buefy&hide_border=true" /></a>
+
 </div>
