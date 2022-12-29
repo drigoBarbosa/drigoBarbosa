@@ -15,3 +15,7 @@
    <a href="https://github.com/drigoBarbosa/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drigoBarbosa&layout=compact&theme=buefy&hide_border=true" /></a>
 
 </div>
+<br>
+ <br>
+ <a href="https://github.com/JoaoEmanuell/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoEmanuell" /></a>
+<a href="https://github.com/JoaoEmanuell/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoEmanuell&layout=compact&theme=buefy&hide_border=true" /></a>
