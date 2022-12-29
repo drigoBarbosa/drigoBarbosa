@@ -10,4 +10,4 @@
 
  <br>
  <a href="https://github.com/drigoBarbosa/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=drigoBarbosa" /></a>
-<a href="https://github.com/JoaoEmanuell/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drigoBarbosa&layout=compact&theme=chartreuse-dark&hide_border=true" /></a>
+<a href="https://github.com/JoaoEmanuell/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drigoBarbosa&layout=compact&theme=chartreuse-dark=true" /></a>
