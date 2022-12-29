@@ -8,14 +8,6 @@
      [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigobs8157@gmail.com)
 
 
-
-<div align="">
-  <a href="https://github.com/drigoBarbosa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drigoBarbosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <a href="https://github.com/drigoBarbosa/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drigoBarbosa&layout=compact&theme=buefy&hide_border=true" /></a>
-
-</div>
-<br>
  <br>
- <a href="https://github.com/JoaoEmanuell/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoEmanuell" /></a>
-<a href="https://github.com/JoaoEmanuell/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoEmanuell&layout=compact&theme=buefy&hide_border=true" /></a>
+ <a href="https://github.com/drigoBarbosa/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=drigoBarbosa" /></a>
+<a href="https://github.com/JoaoEmanuell/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drigoBarbosa&layout=compact&theme=buefy&hide_border=true" /></a>
