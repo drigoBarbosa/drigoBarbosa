@@ -10,4 +10,5 @@
 
  <br>
  <a href="https://github.com/drigoBarbosa/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=drigoBarbosa" /></a>
-<a href="https://github.com/JoaoEmanuell/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drigoBarbosa&layout=compact&theme=chartreuse-dark=true" /></a>
+<a href="https://github.com/JoaoEmanuell/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drigoBarbosa&layout=compact&theme=chartreuse-dark&show_icons=true /></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
