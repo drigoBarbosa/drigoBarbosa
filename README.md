@@ -13,3 +13,4 @@
   <a href="https://github.com/drigoBarbosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drigoBarbosa&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drigoBarbosa&layout=compact)](https://github.com/drigoBarbosa/github-readme-stats)
