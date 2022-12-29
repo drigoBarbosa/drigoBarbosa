@@ -9,6 +9,7 @@
 
 
  <br>
- <a href="https://github.com/drigoBarbosa/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=drigoBarbosa" /></a>
-<a href="https://github.com/drigoBarbosa/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drigoBarbosa&layout=compact&theme=chartreuse-dark&show_icons=true /></a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drigoBarbosa&theme=dark&show_icons=true)
+<div align="">
+  <a href="https://github.com/Rodrigo-barb0sa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-barb0sa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
