@@ -4,11 +4,15 @@
  <br>
  
  <a href="https://github.com/drigoBarbosa/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=drigoBarbosa&theme=chartreuse-dark&show_icons=true&title_color=F8F8FF" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=drigoBarbosa&theme=chartreuse-dark&show_icons=true&title_color=F8F8FF" />
 </a>
 <a href="https://github.com/drigoBarbosa/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drigoBarbosa&layout=compact&theme=chartreuse-dark&title_color=F8F8FF" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drigoBarbosa&theme=chartreuse-dark&title_color=F8F8FF" />
 </a>
+
+
+<br>
+
 
 -  ##  **Minhas Redes:**
 
